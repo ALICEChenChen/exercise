@@ -1,6 +1,6 @@
 //# exercise
 //the first time use of GitHub
-
+#include <stdio>
 #include <iostream>
 
 using namespace std;
