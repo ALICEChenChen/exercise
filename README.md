@@ -2,7 +2,9 @@
 //the first time use of GitHub
 
 #include <iostream>
+
 using namespace std;
+
 int AdjusttArray(int s[], int l, int r) 
 {  
     int i = l, j = r;  
